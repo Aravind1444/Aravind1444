@@ -5,7 +5,7 @@
  <H3><p align = "center"><b>Night + Coding + Music ---> Euphoria out of Frustration </b></p</H3>  <img src="https://media3.giphy.com/media/jqkipjwTMxNRgCKzad/giphy.gif?cid=6c09b9527f65be1882d43e9e840eac08f9b82f9306992af9&rid=giphy.gif" width="35px" align="center">
 
 ----
-I am Aravind Venugopal, an undergraduate student from Trivandrum, learning ECE but passionate about CSE. I love to code in Java and build apps using flutter. I also work on web based projects. Communities are vital for me and I myself have been a part of Developer Student Clubs, School of AI, IEEE SB, etc. 
+<p>I am Aravind Venugopal, an undergraduate student from Trivandrum, learning ECE but passionate about CSE. I love to code in Java and build apps using flutter. I also work on web based projects. Communities are vital for me and I myself have been a part of Developer Student Clubs, School of AI, IEEE SB, etc. </p>
 
 - I love programming (CP) using Java
 - I have also been selected as an Intel Software Innovator
