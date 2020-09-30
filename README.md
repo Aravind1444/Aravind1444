@@ -1,7 +1,7 @@
 <H1><p align = "center"><b> Hello guys</b></p</H1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" align="center">
 
-<!--<p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="40%"/></p>-->
+<p align="center" ><img 
+ src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="40%"/></p>
  <H3><p align = "center"><b>Night + Coding + Music ---> Euphoria out of Frustration </b></p</H3>  <img src="https://media3.giphy.com/media/jqkipjwTMxNRgCKzad/giphy.gif?cid=6c09b9527f65be1882d43e9e840eac08f9b82f9306992af9&rid=giphy.gif" width="35px" align="center">
 
 ----
