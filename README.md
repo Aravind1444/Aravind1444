@@ -1,4 +1,4 @@
-<p align = "center"><b> Hello guys</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" align="center"></p> 
+<p align = "center"><b> Hello folks</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" align="center"></p> 
 
 <p align="center" ><img 
  src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="40%"/></p>
@@ -7,13 +7,12 @@
 ----
 
 
-<p>I am Aravind Venugopal, an undergraduate student from Trivandrum, learning ECE but passionate about CSE. I love to code in Java and build apps using flutter. I also work on web based projects. Communities are vital for me and I myself have been a part of Developer Student Clubs, School of AI, IEEE SB, etc. </p>
+<p>I am Aravind. I work as a Program Manager at Target. I love to code in my free time. I like to get my hands dirty on Android app development. Communities are vital for me and I have had the opportunity to build and grow a few, while supporting a lot of amazing folks. </p>
 
-- I love programming (CP) using Java
-- I have also been selected as an Intel Software Innovator
-- I also work on flutter and other web based projects, just getting ready to try out React.js
-- I'm currently working on my Data Structures, Algorithms and System Design skills
-- 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/aravind1444/) or [Instagram](https://www.instagram.com/in/aravindvenugopal02/)
+- I love developing products
+- 💻 I work as a Program Manager, which means that I don't write code for a living, as of now.
+- I work on Android Development and HTML/CSS + JS
+- 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/aravind1444/) or [Twitter](https://twitter.com/AravindV1444)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aravind14444" alt="Aravind Venugopal" /> </p>
 
@@ -22,7 +21,7 @@
 
 ----
 
-*To know more about me visit my [portfolio](https://aravindvenugopal.in/)*
+*To know more about me visit my portfolio here: [aravind.me](https://aravind.me/)*
 
 ![Aravind's github stats](https://github-readme-stats.vercel.app/api?username=Aravind1444&show_icons=true&hide=["issues"])
 
